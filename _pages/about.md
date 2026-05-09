@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-description1: Stay tuned for what's next
-description2: EE PhD graduate from <a href="https://www.stanford.edu/">Stanford University</a>
+description1: Chip Design at Apple
+description2: EE PhD, <a href="https://www.stanford.edu/">Stanford University</a>
 
 profile:
   align: right
