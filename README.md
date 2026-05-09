@@ -1,6 +1,6 @@
 # Deployment instructions
 
-**Publishing:** Push to `main` (or `master`). GitHub Actions builds Jekyll and deploys the `_site` output to the **`gh-pages`** branch. In the repo’s **Settings → Pages**, set the source to **Deploy from branch `gh-pages` / (root)**.
+**Publishing:** Push to `main` (or `master`). GitHub Actions builds Jekyll, uploads `_site` as a Pages artifact, and deploys with **`deploy-pages`**. In **Settings → Pages**, set **Source** to **GitHub Actions** (not “Deploy from a branch”).
 
 **Local preview:**
 
