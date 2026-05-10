@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-This was a website I primarily used while I was a PhD student. At this stage, I'm maintaining it mostly for archival purposes, though I might sporadically update it as necessary.
+I'm part of Apple's Silicon Engineering Group, where I help architect and design on-chip sensors and explore how they can drive system-level optimization across various modern SoC components. I'm also focused on what it takes to ship these designs at Apple scale while meeting the quality bar people associate with Apple Silicon.
 
 I was a PhD student in the Electrical Engineering Department at Stanford University and was advised by Professor <a href="https://arbabianlab.stanford.edu/">Amin Arbabian</a>. While at Stanford, my research interests broadly lay in the design of integrated circuit systems and algorithms for intelligent sensing and communication applications. Specifically, my research was geared towards the development of multi-modal imaging systems for high-throughput airborne sensing of underground and underwater environments by leveraging the unique advantages of both acoustics and electromagnetics. You can watch my <a href="https://www.youtube.com/watch?v=2wZR2boxz04">defense talk here</a> or read my <a href="https://purl.stanford.edu/qf898cf0992">dissertation here</a>.
 
