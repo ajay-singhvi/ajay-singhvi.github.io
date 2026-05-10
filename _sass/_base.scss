@@ -2,6 +2,19 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+// About page subtitle (Apple icon + line)
+.about-subtitle-line {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.about-apple-icon {
+  font-size: 1em;
+  line-height: 1;
+  color: var(--global-text-color);
+}
+
 // Typography
 
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
