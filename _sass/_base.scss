@@ -6,12 +6,15 @@
 .about-subtitle-line {
   display: inline-flex;
   align-items: center;
-  gap: 0.4rem;
+  /* Explicit icon inset — flex gap alone looked flush next to “Apple” in some browsers */
+  gap: 0.5rem;
 }
 
 .about-apple-icon {
   font-size: 1em;
   line-height: 1;
+  /* Visible gap after word “Apple” — FA glyphs often sit tight to preceding text */
+  margin-left: 0.5em;
   color: var(--global-text-color);
 }
 
