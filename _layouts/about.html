@@ -8,7 +8,7 @@ layout: default
     <h1 class="post-title">
      {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
     </h1>
-     <p class="desc"><span class="about-subtitle-line"><i class="fab fa-apple about-apple-icon" aria-hidden="true"></i><span>{{ page.description1 }}</span></span><br/>{{ page.description2 }}</p>
+     <p class="desc"><span class="about-subtitle-line"><span>{{ page.description1 }}</span><i class="fab fa-apple about-apple-icon" aria-hidden="true"></i></span><br/>{{ page.description2 }}</p>
   </header>
 
   <article>
