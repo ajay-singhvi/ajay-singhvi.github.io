@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /assets/pdf/AjaySinghvi_CV_2024.pdf
+permalink: /assets/pdf/Ajay_CV_2026.pdf
 title: cv
 description:  
 nav: true
